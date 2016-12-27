@@ -1,0 +1,67 @@
+﻿@model NolveltyApp.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "Change User Data";
+}
+<h2>@ViewBag.Title.</h2>
+
+@using (Html.BeginForm("ChangeUserData", "Manage", FormMethod.Post, new { @class = "form-horizontal", role = "form", enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+      
+    <fieldset class="form-horizontal">
+        <legend>Enter User Data.</legend>
+        @Html.ValidationSummary("", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(m => m.FName, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.FName, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.LName, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.LName, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+    @Html.LabelFor(m => m.Signature, new { @class = "col-md-2 control-label" })
+    <div class="col-md-10">
+        <div style="position:relative;">
+            <a class='btn btn-primary' href='javascript:;'>
+                Choose File [*.pdf | *.jpg | *.png]
+                <input type="file" accept=".png,.jpg,.pdf" style='position:absolute;z-index:2;top:0;left:0;filter: alpha(opacity=0);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";opacity:0;background-color:transparent;color:transparent;' name="Signature" size="40" onchange='$("#upload-file-info").html($(this).val());'>
+            </a>
+            &nbsp;
+            <span class='label label-info' id="upload-file-info"></span>
+        </div>
+    </div>
+        </div>
+    <div class="form-group">
+        <p class="col-md-2 control-label"><b>Current Signature Image</b></p>
+    <div class="col-md-10">
+        <img src="@Url.Action("UserPhotos", "Manage")" style="width:300px;height:100px; background: #FFFFFF";
+             margin: auto;
+             -moz-border-radius:60px;
+             border-radius:100px;
+             padding:6px;
+             box-shadow: 0px 20px #888;"/>
+    </div>
+     </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Update User Data" class="btn btn-primary" name="ChangeUserData"/>
+                <a class="btn btn-danger" href="@Url.Action("Delete", "Manage")">Delete User</a>                
+            </div>            
+        </div>
+        </fieldset>
+        }
+        @section Scripts {
+            @Scripts.Render("~/bundles/jqueryval")
+        }

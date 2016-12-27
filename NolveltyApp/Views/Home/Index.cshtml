@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Novelty Employee Recognition Program</h1>
+    <p class="lead">Make wonderful certificates for you employees to celebrate their achievements!</p>    
+</div>
+
+@if (Request.IsAuthenticated)
+{
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Getting started</h2>
+            <p>
+                Our application can help you as a supervisor show your appreciation for your star employees!
+            </p>
+            <p><a class="btn btn-primary" href="@Url.Action("Create", "CertEntries")">Start Creating Now &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>See your History</h2>
+            <p>Go to your previous history and manage your certificates</p>
+            <p><a class="btn btn-primary" href="@Url.Action("Manage", "CertEntries")">Manage Certificates &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Manage Account Profile</h2>
+            <p>Add your user information and attach your signature</p>
+            <p><a class="btn btn-primary" href="@Url.Action("Index", "Manage")">Manage Account &raquo;</a></p>
+        </div>
+    </div>
+
+}
+else
+{           
+            <h2>
+                Sign up today to start using our Novelty Certificate Creator
+            </h2>
+            <p><a class=" btn btn-primary" href="@Url.Action("Register","Account")">Register &raquo;</a></p>        
+}
+

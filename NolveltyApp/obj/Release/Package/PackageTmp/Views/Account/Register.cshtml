@@ -1,0 +1,75 @@
+﻿@model NolveltyApp.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form", enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <h4>Create a new account.</h4>
+    <hr />
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(m => m.FName, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.FName, new { @class = "form-control", @placeholder="Joe" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.LName, new { @class = "col-md-2 control-label",  })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.LName, new { @class = "form-control", @placeholder = "Employee" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @placeholder = "Joe@email.com" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.PasswordFor(m => m.Password, new { @class = "form-control", @placeholder = "password" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control", @placeholder = "confirm password" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.UserRoles, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownList("UserRoles", (SelectList)ViewBag.Name, new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Signature, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            <div style="position:relative;">
+                <a class='btn btn-primary' href='javascript:;'>
+                     Choose File [pdf | jpg | png]
+                    <input type="file" accept=".png,.jpg,.pdf" style='position:absolute;z-index:2;top:0;left:0;filter: alpha(opacity=0);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";opacity:0;background-color:transparent;color:transparent;' name="Signature" size="40" onchange='$("#upload-file-info").html($(this).val());'>
+                </a>
+                &nbsp;
+                <span class='label label-info' id="upload-file-info"></span>
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-primary" value="Register" />
+        </div>
+    </div>
+
+
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

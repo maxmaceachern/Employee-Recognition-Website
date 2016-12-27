@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title -Novelty Employee Recognition Program</title>
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    @Styles.Render("~/Content/css")
+
+
+    <meta name="description" content="Novelty App Certificate Creator" />
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="@Url.Action("Index","Home")"><b>Novelty Employee Recognition</b></a>
+            </div>
+            <div class="navbar-header">
+                <ul class="nav navbar-nav">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        if (User.IsInRole("Admin"))
+                        {
+                            <li class="active"><a href="@Url.Action("Home", "Admin")">Home</a></li>
+                        }
+                        else
+                        {
+                            <li class="active"><a href="@Url.Action("Create", "CertEntries")">Create Award</a></li>
+                            <li><a href="@Url.Action("Manage", "CertEntries")">My Current Awards</a></li>
+                        }
+                    }
+                </ul>
+            </div>
+            @Html.Partial("_LoginPartial")
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Novelty Employee Recognition Program</p>
+        </footer>
+    </div>
+
+
+</body>
+</html>

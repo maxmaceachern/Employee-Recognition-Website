@@ -1,0 +1,27 @@
+High Priority
+- Export CSV isn't correctly outputting the filtered information.
+
+Medium Priority
+
+Low Priority
+
+FIXED
+- Recipient email validation in the Creation form doesn't work (entering "test" yields a SystemFormatException). [SB]
+    Commit bccfbd0 ; modified CertificateModels.cs
+- In the Change User Data form, if you enter a poorly formatted email address, no validation message pops up - 
+  it just doesn't save anything when you click "Update User Data". [SB]
+    Commit 537c166 ; modofied ManageViewModels.cs
+- The "Welcome <name>!" link in the black navbar for admins seems redundant, since it does the exact same thing as the yellow
+  "Novelty Employee Recognition" link right next to it. Plus it's a bit confusing that there's a "Welcome <name>!"
+  and a "Hello <name!" link on the same navbar - kind of tough to tell what each of them does without prior
+  knowledge. Either change it to say "Home" or remove it entirely. [SB]
+    Commit 5a1ec8b ; modified Views/Shared/_Layout.cshtml
+- The "Giver Email" column seems necessary in the Manage Certificates page. Since all we're displaying is the currently logged-in 
+  user's certificates, won't they all be the same? The only reason I can think of to display it is in the chance 
+  someone changes their email address linked with the account, but that seems like quite an edge case. [SB]
+     Commit 0e4fd78 ; modified Views/CertEntires/Manage.cshtml
+- Additional details in the Delete confirmation screen for certificates would be nice, and more consistent with the
+  previous list view. Adding Recipient Name, Creation Date, and Type would be good. [SB]
+     Commit 0e4fd78 ; modified Views/CertEntries/Delete.cshtml
+- User cannot sucessfully delete themself.
+     Commit 228d919 ; modified Views/Manage/Delete.cshtml and ManageController.cs

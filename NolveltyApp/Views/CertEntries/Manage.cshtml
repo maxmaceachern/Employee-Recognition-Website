@@ -1,0 +1,71 @@
+﻿@using Microsoft.AspNet.Identity
+@model IEnumerable<NolveltyApp.Models.CertEntry>
+@{
+    ViewBag.Title = "Manage";
+}
+
+<h2>Manage Certificates</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Time Period: @Html.DropDownList("timeString", "All")
+        Find by email: @Html.TextBox("SearchString")
+        <input type="submit" class="btn btn-primary" />
+    </p>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(item => item.recipientEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(item => item.createDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(item => item.awardDate)
+        </th>
+        <th>
+            Time Period
+        </th>
+        <th>
+            Options
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.recipientEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.createDate)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.awardDate)
+            </td>
+
+            @if (item.timePeriod == 1)
+            {
+                <td>
+                    Month
+                </td>
+            }
+            else
+            {
+                <td>
+                    Week
+                </td>
+            }
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>

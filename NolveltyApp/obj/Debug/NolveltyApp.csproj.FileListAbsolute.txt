@@ -1,0 +1,527 @@
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\roslyn\csc.exe
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\roslyn\vbc.exe
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\roslyn\VBCSCompiler.exe
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\NolveltyApp.dll.config
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\NolveltyApp.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\NolveltyApp.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Antlr3.Runtime.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\EntityFramework.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\EntityFramework.SqlServer.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Newtonsoft.Json.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Owin.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.Helpers.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.Mvc.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.Optimization.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.Razor.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.Razor.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\WebGrease.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.Helpers.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.Mvc.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.Optimization.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.Razor.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.Razor.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Antlr3.Runtime.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Newtonsoft.Json.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\EntityFramework.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\EntityFramework.SqlServer.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\obj\Debug\NolveltyApp.dll
+c:\users\ryan\documents\visual studio 2015\Projects\NolveltyApp\NolveltyApp\obj\Debug\NolveltyApp.pdb
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\roslyn\csc.exe
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\roslyn\vbc.exe
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\NolveltyApp.dll.config
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\NolveltyApp.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\NolveltyApp.pdb
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Antlr3.Runtime.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\EntityFramework.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\EntityFramework.SqlServer.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Newtonsoft.Json.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Owin.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.Helpers.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.Mvc.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.Optimization.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.Razor.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\WebGrease.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.Helpers.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.Mvc.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.Optimization.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.Razor.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Antlr3.Runtime.pdb
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Newtonsoft.Json.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\EntityFramework.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\EntityFramework.SqlServer.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\obj\Debug\NolveltyApp.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\obj\Debug\NolveltyApp.pdb
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.DirectoryServices.AccountManagement.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\SendGrid.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Net.Http.Formatting.dll
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\bin\System.Net.Http.Formatting.xml
+C:\Users\rcope\Desktop\NolveltyApp-20161007T025010Z\NolveltyApp\NolveltyApp\obj\Debug\NolveltyApp.csprojResolveAssemblyReference.cache
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\roslyn\csc.exe
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\roslyn\vbc.exe
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\NolveltyApp.dll.config
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\NolveltyApp.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\NolveltyApp.pdb
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Antlr3.Runtime.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\EntityFramework.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\EntityFramework.SqlServer.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Newtonsoft.Json.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Owin.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\SendGrid.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.DirectoryServices.AccountManagement.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Net.Http.Formatting.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.Helpers.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.Mvc.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.Optimization.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.Razor.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\WebGrease.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Newtonsoft.Json.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Net.Http.Formatting.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.Helpers.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.Mvc.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.Optimization.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.Razor.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Antlr3.Runtime.pdb
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\EntityFramework.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\EntityFramework.SqlServer.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\obj\Debug\NolveltyApp.csprojResolveAssemblyReference.cache
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\obj\Debug\NolveltyApp.dll
+C:\Users\rcope\Desktop\WebApp\NolveltyApp\NolveltyApp\obj\Debug\NolveltyApp.pdb
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\csc.exe
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\vbc.exe
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\NolveltyApp.dll.config
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\NolveltyApp.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\NolveltyApp.pdb
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Antlr3.Runtime.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.SqlServer.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Newtonsoft.Json.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Owin.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\SendGrid.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.DirectoryServices.AccountManagement.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Net.Http.Formatting.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Helpers.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Mvc.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Optimization.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Razor.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\WebGrease.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Newtonsoft.Json.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Net.Http.Formatting.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Helpers.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Mvc.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Optimization.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Razor.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Antlr3.Runtime.pdb
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.SqlServer.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\obj\Debug\NolveltyApp.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\obj\Debug\NolveltyApp.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\obj\Debug\NolveltyApp.pdb
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\csc.exe
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\vbc.exe
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\NolveltyApp.dll.config
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\NolveltyApp.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\NolveltyApp.pdb
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Antlr3.Runtime.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Newtonsoft.Json.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Owin.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\SendGrid.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.DirectoryServices.AccountManagement.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Helpers.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Mvc.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Optimization.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Razor.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\WebGrease.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Newtonsoft.Json.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Helpers.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Mvc.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Optimization.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Razor.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Antlr3.Runtime.pdb
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\obj\Debug\NolveltyApp.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\obj\Debug\NolveltyApp.pdb
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.AspNetIdentity.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.dll
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.pdb
+C:\Users\Ryan\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.AspNetIdentity.pdb
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.AspNetIdentity.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.dll
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.pdb
+C:\Users\maxma\Source\Repos\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.AspNetIdentity.pdb
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\csc.exe
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\vbc.exe
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\NolveltyApp.dll.config
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\NolveltyApp.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\NolveltyApp.pdb
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Antlr3.Runtime.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.AspNetIdentity.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Newtonsoft.Json.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Owin.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\SendGrid.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.DirectoryServices.AccountManagement.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Helpers.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Mvc.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Optimization.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Razor.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\WebGrease.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.pdb
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.AspNetIdentity.pdb
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Newtonsoft.Json.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Helpers.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Mvc.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Optimization.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Razor.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Antlr3.Runtime.pdb
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\obj\Debug\NolveltyApp.csprojResolveAssemblyReference.cache
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\obj\Debug\NolveltyApp.dll
+C:\Users\Susie\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\obj\Debug\NolveltyApp.pdb
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\csc.exe
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\vbc.exe
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\NolveltyApp.dll.config
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\NolveltyApp.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\NolveltyApp.pdb
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Antlr3.Runtime.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.SqlServer.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.AspNetIdentity.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Newtonsoft.Json.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Owin.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\SendGrid.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.DirectoryServices.AccountManagement.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Net.Http.Formatting.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Helpers.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Mvc.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Optimization.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Razor.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\WebGrease.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.pdb
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\IdentityManager.AspNetIdentity.pdb
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Newtonsoft.Json.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Net.Http.Formatting.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Helpers.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Mvc.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Optimization.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.Razor.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Antlr3.Runtime.pdb
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\EntityFramework.SqlServer.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\obj\Debug\NolveltyApp.dll
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\obj\Debug\NolveltyApp.pdb
+C:\Users\lawn4\Documents\GitHub\CS419-Novelty-Employement-Recognition-Site\NolveltyApp\obj\Debug\NolveltyApp.csprojResolveAssemblyReference.cache

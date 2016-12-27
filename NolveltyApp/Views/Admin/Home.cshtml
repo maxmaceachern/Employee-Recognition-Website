@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = " Admin Home ";
+}
+<div class="jumbotron">
+    <h1>Admin Portal</h1>
+    <p class="lead">Manage Portal Users</p>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Manage Users</h2>
+        <p>Add, Edit, and Delete Users that are allowed to Create Awards.</p>
+        <p><a class="btn btn-primary" href="@Url.Action("Index", "User")">Manager Users Now &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Manage Admin Users</h2>
+        <p>Add, Edit, and Delete users.</p>
+        <p><a class="btn btn-primary" href="@Url.Action("Index", "Admin")">Manage Admin Users &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Manage Roles</h2>
+        <p>Manage Database Roles</p>
+        <p><a class="btn btn-primary" href="@Url.Action("Index", "Role")">Manage Roles Now &raquo;</a></p>
+    </div>
+
+
+</div>
